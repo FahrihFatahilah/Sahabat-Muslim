@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56583517278",
+    "firebase_url": "https://temanhijrahkajian.firebaseio.com",
+    "project_id": "temanhijrahkajian",
+    "storage_bucket": "temanhijrahkajian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56583517278:android:659625333f88d8fb",
+        "android_client_info": {
+          "package_name": "app.com.temanhijrah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56583517278-e46ig2h6mbhrb110b8h9qsceacaopgrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.temanhijrah",
+            "certificate_hash": "bd4bc18b74e2524165e834dd7089a64828ff0a60"
+          }
+        },
+        {
+          "client_id": "56583517278-lvsmrql4p8fcgclv7ua86s6g0kbr1ahm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzyB8jJ7z78vA1Tt0vY_K3OYKC5MwchSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56583517278-lvsmrql4p8fcgclv7ua86s6g0kbr1ahm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

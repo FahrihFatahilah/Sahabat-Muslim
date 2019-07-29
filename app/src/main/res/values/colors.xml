@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="Masjid">#05A48D</color>
+    <color name="Jadwal_Shalat">#F0C81A</color>
+    <color name="Nama_allah">#A1C181</color>
+    <color name="Radio">#00ADB5</color>
+    <color name="Pelacak_shalat">#FCA464</color>
+    <color name="About">#BC8F8F</color>
+    <color name="lingkaran_kerajinan">#e1d612</color>
+    <color name="colorPrimary">#415c78</color>
+
+    <color name="colorPrimaryDark">#2d3a64</color>
+    <color name="ripple_color">@android:color/black</color>
+    <color name="calendar_good">#8BC34A</color>
+    <color name="calendar_bad">#F44336</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

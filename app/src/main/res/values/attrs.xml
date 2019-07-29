@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PrayerView">
+        <attr name="name" format="string"/>
+        <attr name="prayer" format="enum">
+            <enum name="fajr" value="0"/>
+            <enum name="zuhr" value="1"/>
+            <enum name="asr" value="2"/>
+            <enum name="maghrib" value="3"/>
+            <enum name="isha" value="4"/>
+            <enum name="duha" value="5"/>
+            <enum name="tahajud" value="6"/>
+            <enum name="rawatib" value="7"/>
+
+        </attr>
+    </declare-styleable>
+
+        <attr name="status" format="enum">
+            <enum name="unknown" value="0"/>
+            <enum name="missed" value="1"/>
+            <enum name="late" value="2"/>
+            <enum name="ontime" value="3"/>
+        </attr>
+        <attr name="statusIbadah" format="enum">
+            <enum name="Ya" value="0"/>
+            <enum name="Tidak" value="1"/>
+
+        </attr>
+        <attr name="place" format="enum">
+            <enum name="other" value="0"/>
+            <enum name="mosque" value="1"/>
+            <enum name="home" value="2"/>
+            <enum name="office" value="3"/>
+        </attr>
+
+
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TambahKajianActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/pTitlteEt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukan Nama Kajian"
+            android:singleLine="true"/>
+        <ImageView
+            android:id="@+id/pImageiv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:cropToPadding="true"
+            android:src="@drawable/tambah"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="10dp"/>
+        <EditText
+            android:id="@+id/pDescrEt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="100dp"
+            android:gravity="top"/>
+        <Button
+            android:id="@+id/pUploadBtn"
+            android:layout_width="wrap_content"
+            android:text="Tambah Data Kajian"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_marginLeft="10dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"/>
+
+    </LinearLayout>
+
+</ScrollView>
