@@ -8,13 +8,6 @@ import java.io.InputStreamReader;
 import app.com.temanhijrah.Database.DatabaseHelper;
 import app.com.temanhijrah.util.PreferenceApp;
 
-/**
- * Created by jonesrandom on 2/20/18.
- *
- * @site www.androidexample.web.id
- * @github @alfianyusufabdullah
- */
-
 public class App extends Application {
 
     private static Resources resources;
