@@ -4,9 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.telephony.mbms.StreamingService;
 
-/**
- * Created by imam-laptop on 20/08/2016.
- */
+
 public class StreamingReceiver extends BroadcastReceiver {
 
     @Override
